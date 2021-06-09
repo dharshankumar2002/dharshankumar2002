@@ -3,7 +3,7 @@
 
 ### About me
 
->- 🌱 I’m currently pursuing BTech Artificial Intelligence <br>
+>- 🎓 I’m currently pursuing 3rd year BTech Artificial Intelligence <br>
 >  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; @ Amrita Vishwa Vidyapeetham,
 >      Coimbatore,
 >      Tamil Nadu,
@@ -13,6 +13,21 @@
 >- 📫 How to reach me: dharshankumar55@gmail.com
 
 <br>
+
+### Languages
+>|                              |          |
+>|------------------------------|----------|
+>| Python                       | ████████ |
+>| MATLAB                       | ███████░ |  
+>| Java                         | ██████░░ | 
+>| Julia                        | █████░░░ |
+>| Scala                        | █████░░░ |
+>| JavaScript                   | █████░░░ |
+>| R                            | ████░░░░ |
+<br>
+
+##
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="dharshan kumar" /> </p>
 
 ## 
 <!-- Actual text -->
