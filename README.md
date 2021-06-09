@@ -27,19 +27,20 @@
 >| R                            | ████░░░░ |
 <br>
 
-## Reach me
+### Reach me
 <a href="https://discordapp.com/users/760722327360110624">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Dharshan's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://www.linkedin.com/in/dharshan-kumar-ba09521a0/">
+  <img align="left" alt="Dharshan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://github.com/dharshankumar2002/">
+  <img align="left" alt="Dharshan's Github" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
 </a>
-<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+<a href="https://www.hackerrank.com/dharshan_kumar">
+  <img align="left" alt="Dharshan's HackerRank" width="22px" src="https://thumbs.bfldr.com/at/y9ol94wb/v/331198expiry=1623870707&fit=bounds&height=800&sig=OTgyMTI0MWZlMTVjNzU3ZmIzOGNhMWJjOTUyM2ZiMDE3Njc3YzVmZg%3D%3D&width=1100" />
 </a>
+
 
 
 ## 
