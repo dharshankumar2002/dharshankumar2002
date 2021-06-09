@@ -40,6 +40,6 @@
 <a href="https://www.hackerrank.com/dharshan_kumar">
   <img align="left" alt="Dharshan's HackerRank" width="25px" src="assets/HackerRank_logo.svg" />
 </a>
-<a href="https://www.hackerrank.com/dharshankumar55@gmail.com">
+<a href="https://www.dharshankumar55@gmail.com">
   <img align="left" alt="Dharshan's Gmail" width="23px" src="assets/Gmail_logo.svg" />
 </a>
