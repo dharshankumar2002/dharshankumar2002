@@ -33,6 +33,13 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
+<br>
+
+### Few Blog Posts
+> - 📈<a href="https://wordpress.com/post/ai538393399.wordpress.com/814">MST<a> from Graphs
+> - 🤖<a href="https://wordpress.com/post/ai538393399.wordpress.com/610">KNN<a> from Machine Learing Algorithms
+> - 👨‍💻<a href="https://wordpress.com/post/ai538393399.wordpress.com/267">Conslist<a> from Data Structures
+> - ‍💻<a href="https://wordpress.com/post/ai538393399.wordpress.com/967">Paging<a> from Operating Systems
 
 <br>
 
