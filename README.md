@@ -43,3 +43,6 @@
 <a href="https://www.dharshankumar55@gmail.com">
   <img align="left" alt="Dharshan's Gmail" width="23px" src="assets/Gmail_logo.svg" />
 </a>
+<a href="https://www.codechef.com/users/dharshan_kumar">
+  <img align="left" alt="Dharshan's CodeChef" width="23px" src="assets/codechef_logo.svg" />
+</a>
