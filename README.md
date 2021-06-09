@@ -38,17 +38,5 @@
   <img align="left" alt="Dharshan's Github" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
 </a>
 <a href="https://www.hackerrank.com/dharshan_kumar">
-  <img align="left" alt="Dharshan's HackerRank" width="22px" src="https://thumbs.bfldr.com/at/y9ol94wb/v/331198expiry=1623870707&fit=bounds&height=800&sig=OTgyMTI0MWZlMTVjNzU3ZmIzOGNhMWJjOTUyM2ZiMDE3Njc3YzVmZg%3D%3D&width=1100" />
+  <img align="left" alt="Dharshan's HackerRank" width="25px" src="assets/HackerRank_logo.svg" />
 </a>
-
-
-
-## 
-<!-- Actual text -->
-You can find me on <a href="https://www.hackerrank.com/dharshan_kumar"><img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/hackerrank_logo_icon_145206.png" width="18" height="18" /></a> or on [![LinkedIn][2.2]][2]
-<!-- Icons -->
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-<!-- Links to your social media accounts -->
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://www.linkedin.com/in/dharshan-kumar-ba09521a0/
