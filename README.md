@@ -35,7 +35,7 @@
 </p>
 <br>
 
-### Few of Blog Posts
+### Latest Blog Posts
 > - 📈 <a href="https://wordpress.com/post/ai538393399.wordpress.com/814">MST<a> from Graphs
 > - 🤖 <a href="https://wordpress.com/post/ai538393399.wordpress.com/610">KNN<a> from Machine Learing Algorithms
 > - 👨‍💻 <a href="https://wordpress.com/post/ai538393399.wordpress.com/267">Conslist<a> from Data Structures
@@ -61,4 +61,8 @@
 </a>
 <a href="https://www.codechef.com/users/dharshan_kumar">
   <img align="left" alt="Dharshan's CodeChef" width="23px" src="assets/codechef_logo.svg" />
+</a>
+ <a href="https://www.credly.com/earner/earned">
+  <img align="left" alt="Dharshan's Credly" width="32px" src="https://info.credly.com/hs-fs/hubfs/Credly_Logo_Orange_10-Inch.png?width=3000&name=Credly_Logo_Orange_10-Inch.png"
+       />
 </a>
