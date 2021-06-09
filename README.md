@@ -43,6 +43,8 @@
 
 <br>
 
+<hr style=\"border:0.5px solid gray\"> </hr>
+
 ### Reach me
 <a href="https://discordapp.com/users/760722327360110624">
   <img align="left" alt="Dharshan's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
