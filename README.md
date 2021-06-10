@@ -29,9 +29,31 @@
 
 ### Skillsets
 <p>
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+ <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+ <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+ <img alt="js" src="https://img.shields.io/badge/-Java Script-43853d?style=flat-square&logo=javascript&logoColor=white" />
+ <img alt="Tensorflow" src="https://img.shields.io/badge/-Tensorflow-43853d?style=flat-square&logo=Tensorflow&logoColor=white" />
+ <img alt="Tensorflow" src="https://img.shields.io/badge/-Blog-43853d?style=flat-square&logo=blogger&logoColor=white" />
+ <img alt="Tensorflow" src="https://img.shields.io/badge/-App development-43853d?style=flat-square&logo=android&logoColor=white" />
+ <img alt="Tensorflow" src="https://img.shields.io/badge/-Arduino-43853d?style=flat-square&logo=arduino&logoColor=white" />
+ <img alt="Tensorflow" src="https://img.shields.io/badge/-Crypto Currency-43853d?style=flat-square&logo=bitcoin&logoColor=white" />
+ <img alt="Tensorflow" src="https://img.shields.io/badge/-CSS-43853d?style=flat-square&logo=css3&logoColor=white" />
+ <img alt="Tensorflow" src="https://img.shields.io/badge/-Django-43853d?style=flat-square&logo=django&logoColor=white" />
+ <img alt="Tensorflow" src="https://img.shields.io/badge/-Kali Linux-43853d?style=flat-square&logo=Linux&logoColor=#557C94" />
+ <img alt="Tensorflow" src="https://img.shields.io/badge/-Keras-43853d?style=flat-square&logo=keras&logoColor=#D00000" />
+ <img alt="Tensorflow" src="https://img.shields.io/badge/-Kotlin-43853d?style=flat-square&logo=kotlin&logoColor=#0095D5" />
+ <img alt="Tensorflow" src="https://img.shields.io/badge/-SQL-43853d?style=flat-square&logo=mysql&logoColor=#4479A1" />
+ <img alt="Tensorflow" src="https://img.shields.io/badge/-OpenCV-43853d?style=flat-square&logo=opencv&logoColor=#5C3EE8" />
+ <img alt="Tensorflow" src="https://img.shields.io/badge/-p5.js-43853d?style=flat-square&logo=Processing-Foundation&logoColor=#006699" />
+ <img alt="Tensorflow" src="https://img.shields.io/badge/-Robotics-43853d?style=flat-square&logo=Private-Internet-Access&logoColor=#4BB749" />
+ <img alt="Tensorflow" src="https://img.shields.io/badge/-iTinker UI-43853d?style=flat-square&logo=python&logoColor=#3776AB" />
+ <img alt="Tensorflow" src="https://img.shields.io/badge/-ROS-43853d?style=flat-square&logo=ros&logoColor=#22314E" />
+ <img alt="Tensorflow" src="https://img.shields.io/badge/-Scratch-43853d?style=flat-square&logo=scratch&logoColor=#4D97FF" />
+ <img alt="Tensorflow" src="https://img.shields.io/badge/-scikit learn-43853d?style=flat-square&logo=scikit-learn&logoColor=#F7931E" />
+ <img alt="Tensorflow" src="https://img.shields.io/badge/-BigData Analytics-43853d?style=flat-square&logo=simple-analytics&logoColor=#FF4F64" />
+ <img alt="Tensorflow" src="https://img.shields.io/badge/-Virtual Box-43853d?style=flat-square&logo=virtualbox&logoColor=#183A61" />
+ <img alt="Tensorflow" src="https://img.shields.io/badge/-Premiere Pro-43853d?style=flat-square&logo=adobe-premiere-pro&logoColor=#9999FF" />
+ <img alt="Tensorflow" src="https://img.shields.io/badge/-Matlab App-43853d?style=flat-square&logo=Apostrophe&logoColor=#4D97FF" />
 </p>
 <br>
 
