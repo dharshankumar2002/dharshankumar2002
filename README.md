@@ -86,6 +86,10 @@
 <a href="https://www.codechef.com/users/dharshan_kumar">
   <img align="left" alt="Dharshan's CodeChef" width="23px" src="assets/codechef_logo.svg" />
 </a>
+</a>
+<a href="https://ai538393399.wordpress.com/">
+  <img align="left" alt="Dharshan's website" width="22px" src="assets/website_logo.svg" />
+</a>
  <a href="https://www.credly.com/earner/earned">
   <img align="left" alt="Dharshan's Credly" width="32px" src="https://info.credly.com/hs-fs/hubfs/Credly_Logo_Orange_10-Inch.png?width=3000&name=Credly_Logo_Orange_10-Inch.png"
        />
