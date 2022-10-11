@@ -3,17 +3,17 @@
 
 ### About me
 
->- 🎓 I’m currently pursuing 3rd year BTech Artificial Intelligence <br>
+>- 🎓 I’m currently pursuing my 4th year BTech in CSE-AI <br>
 >  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; @ Amrita Vishwa Vidyapeetham,
 >      Coimbatore,
 >      Tamil Nadu,
 >      India.
 >      
->- 💬 Ask me about NLP, Data Science & Web Development
+>- 💬 Ask me about Computer Networks, DSA & Data Science
 >- 📫 How to reach me: dharshankumar55@gmail.com
 
 <br>
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="250" />
  
 ### Languages
 >|                              |          |
@@ -21,10 +21,7 @@
 >| Python                       | ████████ |
 >| MATLAB                       | ███████░ |  
 >| Java                         | ██████░░ | 
->| Julia                        | █████░░░ |
->| Scala                        | █████░░░ |
->| JavaScript                   | █████░░░ |
->| R                            | ████░░░░ |
+
 <br>
 
 ### Skillsets
@@ -64,7 +61,7 @@
 </p>
 <br>
 
-### Latest Blog Posts
+### Blog Posts
 > - 📈 <a href="https://wordpress.com/post/ai538393399.wordpress.com/814">MST<a> from Graphs
 > - 🤖 <a href="https://wordpress.com/post/ai538393399.wordpress.com/610">KNN<a> from Machine Learing Algorithms
 > - 👨‍💻 <a href="https://wordpress.com/post/ai538393399.wordpress.com/267">Conslist<a> from Data Structures
